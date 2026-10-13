@@ -65,8 +65,7 @@ notes of the printed Acts are kept where the PDF text layer places them, sometim
 ## Copyright
 
 Kenyan Acts and the Constitution are official public texts of the Republic of Kenya published by Parliament for
-public information; the Copyright Act (Cap. 130, s. 26) excludes from protection works of the Government
-consisting of laws. The Markdown conversion is provided as is, for information; the authoritative texts are the
+public information; the sources used state no terms restricting reuse. The Markdown conversion is provided as is, for information; the authoritative texts are the
 printed Kenya Gazette supplements.
 
 ## Regenerate
